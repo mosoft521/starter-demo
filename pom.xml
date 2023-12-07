@@ -13,6 +13,8 @@
         <module>robot-spring-boot-starter-demo</module>
         <module>robot2-spring-boot-starter</module>
         <module>robot2-spring-boot-starter-demo</module>
+        <module>threadpool-spring-boot-starter</module>
+        <module>threadpool-spring-boot-starter-demo</module>
     </modules>
 
     <properties>
